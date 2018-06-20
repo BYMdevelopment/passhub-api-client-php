@@ -2,14 +2,15 @@
     "name": "passhub-api",
     "description": "PassHub API Client",
     "keywords": [
-        "php",
-        "api",
-        "passhub"
+        "PassHub",
+        "SightseeingPass",
+        "API Client",
+        "API"
     ],
     "homepage": "http://sightseeing.tech",
     "authors": [
         {
-            "name": "dev",
+            "name": "BYM Development LLC",
             "email": "dev@sightseeingtech.com"
         }
     ],
