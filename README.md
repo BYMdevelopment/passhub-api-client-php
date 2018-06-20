@@ -16,7 +16,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
 ```
 {
   "require": {
-      "passhub/php-api": "1.0"
+      "sightseeingtech/passhub-api": "1.0"
    }
 }
 ```
